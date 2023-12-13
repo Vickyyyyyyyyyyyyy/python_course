@@ -1,0 +1,12 @@
+- Ant colony optimization
+- Artificial Bee Colony
+- Big bang - big crunch
+- Branch and bound
+- Differential Evolution
+- Fierfly algorithm
+- JAYA Algorithm
+- Mine Blast
+- Partical swarm
+- Simulated annealing
+- Teaching-Learning-based-Optimization
+- WaterCycle Algorithm
